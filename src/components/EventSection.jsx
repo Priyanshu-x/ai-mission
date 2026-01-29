@@ -28,9 +28,9 @@ const EventSection = ({ event, index }) => {
                         </p>
 
                         <div className="pt-8 flex flex-col gap-4">
-                            <div className="text-[10px] text-zinc-600 uppercase tracking-widest font-bold">Mission Scope</div>
+                            <div className="text-sm text-zinc-600 uppercase tracking-widest font-bold">Mission Scope</div>
                             <div className="p-6 bg-zinc-950 border border-zinc-900">
-                                <p className="text-zinc-500 text-xs italic leading-relaxed">
+                                <p className="text-zinc-400 text-base italic leading-relaxed">
                                     {event.missionScope || "This initiative focused on bringing advanced AI literacy to the participants, ensuring a comprehensive understanding of practical applications and ethical considerations."}
                                 </p>
                             </div>

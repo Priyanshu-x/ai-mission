@@ -69,21 +69,12 @@ export const events = [
         sortDate: "2025-01-02",
         thumbnail: "/AI Awarness Campaign/AI Hackathon/Hackathon Pics/DSC03699.JPG",
         images: [
-            "/AI Awarness Campaign/AI Hackathon/Hackathon Pics/DSC03699.JPG",
-            "/AI Awarness Campaign/AI Hackathon/Hackathon Pics/DSC03700.JPG",
-            "/AI Awarness Campaign/AI Hackathon/Hackathon Pics/DSC03891.JPG",
-            "/AI Awarness Campaign/AI Hackathon/Hackathon Pics/DSC03923.JPG",
-            "/AI Awarness Campaign/AI Hackathon/Hackathon Pics/DSC03927.JPG",
-            "/AI Awarness Campaign/AI Hackathon/Hackathon Pics/DSC03931.JPG",
-            "/AI Awarness Campaign/AI Hackathon/Hackathon Pics/DSC03938.JPG",
-            "/AI Awarness Campaign/AI Hackathon/Hackathon Pics/DSC03941.JPG",
-            "/AI Awarness Campaign/AI Hackathon/Hackathon Pics/DSC03943.JPG",
-            "/AI Awarness Campaign/AI Hackathon/Hackathon Pics/DSC03946.JPG",
-            "/AI Awarness Campaign/AI Hackathon/Hackathon Pics/DSC03947.JPG",
-            "/AI Awarness Campaign/AI Hackathon/Hackathon Pics/DSC03949.JPG",
-            "/AI Awarness Campaign/AI Hackathon/Hackathon Pics/DSC03950.JPG",
-            "/AI Awarness Campaign/AI Hackathon/Hackathon Pics/DSC03952.JPG",
-            "/AI Awarness Campaign/AI Hackathon/Hackathon Pics/DSC03955.JPG",
+            "AI Awarness Campaign/AI Hackathon/Hackathon Pics/DSC04078.JPG",
+            "/AI Awarness Campaign/AI Hackathon/Hackathon Pics/DSC04112.JPG",
+            "/AI Awarness Campaign/AI Hackathon/Hackathon Pics/DSC04105.JPG",
+            "/AI Awarness Campaign/AI Hackathon/Hackathon Pics/DSC04106.JPG",
+            "/AI Awarness Campaign/AI Hackathon/Hackathon Pics/DSC04108.JPG",
+            "AI Awarness Campaign/AI Hackathon/Hackathon Pics/DSC03700.JPG",
         ]
     },
     {
@@ -137,10 +128,10 @@ export const events = [
     },
     {
         id: 8,
-        title: "Graphite School Training - Day 2",
+        title: "Cybersecurity School Training",
         date: "April 17, 2025",
         organizer: "SGSU",
-        description: "AI training program at Graphite School - Second day",
+        description: "Cybersecurity training program at Graphite School",
         missionScope: "Day two advanced into the realm of Cybersecurity and AI Ethics. Participants explored how AI is used in threat detection and data protection, while also debating the privacy implications and moral responsibilities of deploying automated decision-making systems.",
         sortDate: "2025-04-17",
         thumbnail: "/AI Awarness Campaign/17th April Graphite School/CyberSecurityGraphite.jpg",
@@ -230,10 +221,10 @@ export const events = [
         thumbnail: "/AI Awarness Campaign/Aisect AI Literacy Mission/Bus Pictures-20251115T081025Z-1-001/Bus Pictures/DSC00741.JPG",
         images: [
             "/AI Awarness Campaign/Aisect AI Literacy Mission/Bus Pictures-20251115T081025Z-1-001/Bus Pictures/DSC00741.JPG",
-            "/AI Awarness Campaign/Aisect AI Literacy Mission/Bus Pictures-20251115T081025Z-1-001/Bus Pictures/DSC00744.JPG",
-            "/AI Awarness Campaign/Aisect AI Literacy Mission/Bus Pictures-20251115T081025Z-1-001/Bus Pictures/DSC00745.JPG",
-            "/AI Awarness Campaign/Aisect AI Literacy Mission/Bus Pictures-20251115T081025Z-1-001/Bus Pictures/DSC00747.JPG",
-            "/AI Awarness Campaign/Aisect AI Literacy Mission/Bus Pictures-20251115T081025Z-1-001/Bus Pictures/DSC00749.JPG"
+            "/AI Awarness Campaign/Aisect AI Literacy Mission/SGSU Training Pictures & Videos -20251115T081046Z-1-001/SGSU Training Pictures & Videos/557898829_766480759713319_1613381700938399737_n.jpg",
+            "/AI Awarness Campaign/Aisect AI Literacy Mission/SGSU Training Pictures & Videos -20251115T081046Z-1-001/SGSU Training Pictures & Videos/548211261_748288061532589_2712983570258812373_n (1).jpg",
+            "/AI Awarness Campaign/Aisect AI Literacy Mission/SGSU Training Pictures & Videos -20251115T081046Z-1-001/SGSU Training Pictures & Videos/536279221_725122867182442_8044197018906426108_n.jpg",
+            "/AI Awarness Campaign/Aisect AI Literacy Mission/SGSU Training Pictures & Videos -20251115T081046Z-1-001/SGSU Training Pictures & Videos/545591768_748288698199192_5563046385691988280_n.jpg"
         ]
     }
 ];

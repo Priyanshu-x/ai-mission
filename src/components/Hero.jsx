@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <section
       className="relative bg-cover bg-center h-screen min-h-[700px] flex items-center"
-      style={{ backgroundImage: "url('/AI Awarness Campaign/AI Hackathon/Hackathon Pics/DSC03699.JPG')" }}
+      style={{ backgroundImage: "url('/AI Awarness Campaign/AI Hackathon/Hackathon Pics/DSC04120.JPG')" }}
     >
       <div className="absolute inset-0 bg-black/75"></div>
 
